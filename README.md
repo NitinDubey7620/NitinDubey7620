@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/NitinDubey7620/NitinDubey7620/blob/main/Copy%20of%20Black%20Technology%20LinkedIn%20Banner_20240706_142249_0004.gif)
+![MasterHead](https://github.com/NitinDubey7620/NitinDubey7620/blob/main/ezgif.com-loop-count.gif)
 <h1 align="center">Hi 👋, I'm Nitin Dubey</h1>
 <h3 align="justify">Aspiring Computer Engineer with strong foundation in software development, object oriented programming, and database management. Passionate about leveraging Skills in C++, Python, and MySQL to build efficient and scalable software solutions. Seeking to contribute to Dynamic teams and innovative projects.</h3>
 <img align ="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
