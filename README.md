@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Dubey</h1>
 <h3 align="justify">Aspiring Computer Engineer with strong foundation in software development, object oriented programming, and database management. Passionate about leveraging Skills in C++, Python, and MySQL to build efficient and scalable software solutions. Seeking to contribute to Dynamic teams and innovative projects.</h3>
 <img align ="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-- 🌱 I’m currently learning C++, OOPS, DBMS, SQl, and Python
+- 🌱 I’m currently learning C++, OOPS, DBMS, SQl, HTML/CSS, JavaScript and Python
 
 - 💬 Ask me about C++ programming, Python development, SQL databases
 
