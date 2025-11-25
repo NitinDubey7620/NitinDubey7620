@@ -1,6 +1,10 @@
 ![MasterHead](https://github.com/NitinDubey7620/NitinDubey7620/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nitin Dubey</h1>
-<h3 align="justify">Aspiring Computer Engineer with strong foundation in software development, object oriented programming, and database management. Passionate about leveraging Skills in C++, Python, and MySQL to build efficient and scalable software solutions. Seeking to contribute to Dynamic teams and innovative projects.</h3>
+<h3 align="justify">Software Developer with a strong foundation in C++, Python, JavaScript, SQL, and full-stack development. I enjoy building scalable applications, crafting clean architectures, and solving real-world problems through code. My experience spans the MERN stack, RESTful API development, MongoDB Atlas, React-based UI design, and building ML-driven applications with TensorFlow and Scikit-learn.
+
+I’ve developed full-stack apps like a bookstore web platform, engineered machine-learning models for placement prediction, and created structured backend systems using Node.js, Express, and MongoDB. I also work with tools like Git, GitHub, VS Code, MySQL, Jupyter Notebook, and Anaconda to streamline development and experimentation.
+
+Passionate about writing maintainable code, exploring new technologies, and continuously improving as a developer. Always working on projects that strengthen my understanding of software engineering principles and system design.</h3>
 <img align ="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 - 🌱 I’m currently learning C++, OOPS, DBMS, SQl, HTML/CSS, JavaScript and Python
 
